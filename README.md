@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--kalyan-eds-test--kalyanakeshava1729.aem.page/
+- Live: https://main--kalyan-eds-test--kalyanakeshava1729.aem.live/
 
 ## Documentation
 
